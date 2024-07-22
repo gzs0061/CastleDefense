@@ -1,6 +1,6 @@
 # CastleDefense
 
-Personal project using company software. This project was required to be completed within 90 days of hiring in order to become familiar with the technology. I created a game controller using REST APIs and Python to control the movements of the knight defending the castle. 
+Castle defense game using company software. When using the controller and start is pressed we will start to see intruding knights attacking the castle. The controller steers the blue knight who is aided by a dragon to defend the castle.
 
 Links to images/videos of the game below:
 
